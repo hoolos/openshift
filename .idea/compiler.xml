@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="java.general" />
+        <module name="openshift.simple.test" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="java.general" target="1.5" />
+      <module name="openshift.simple.test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

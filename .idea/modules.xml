@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java.general.iml" filepath="$PROJECT_DIR$/java.general.iml" />
+      <module fileurl="file://$PROJECT_DIR$/openshift.simple.test/openshift.simple.test.iml" filepath="$PROJECT_DIR$/openshift.simple.test/openshift.simple.test.iml" />
     </modules>
   </component>
 </project>
